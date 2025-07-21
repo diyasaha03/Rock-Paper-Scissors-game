@@ -24,7 +24,7 @@ rock-paper-scissors/
 
 1. Clone the repository:
 
-   git clone
+   git clone https://github.com/diyasaha03/Rock-Paper-Scissors-game
    
 Run the Python file
 python rps.py
